@@ -27,6 +27,9 @@ rightColumn.sort()
 
 diff = 0
 for i, number in enumerate(leftColumn):
-	diff += abs(float(number) - float(rightColumn[i]))
+    # Count the number of times number is found in the right column array
+    count = rightColumn.count(number)
+    diff += float(number) * float(count)
+	
 
 print (diff)
