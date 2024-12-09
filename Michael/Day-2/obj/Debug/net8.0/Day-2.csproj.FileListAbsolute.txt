@@ -1,0 +1,15 @@
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\bin\Debug\net8.0\Day-2.exe
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\bin\Debug\net8.0\Day-2.deps.json
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\bin\Debug\net8.0\Day-2.runtimeconfig.json
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\bin\Debug\net8.0\Day-2.dll
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\bin\Debug\net8.0\Day-2.pdb
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\obj\Debug\net8.0\Day-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\obj\Debug\net8.0\Day-2.AssemblyInfoInputs.cache
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\obj\Debug\net8.0\Day-2.AssemblyInfo.cs
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\obj\Debug\net8.0\Day-2.csproj.CoreCompileInputs.cache
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\obj\Debug\net8.0\Day-2.sourcelink.json
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\obj\Debug\net8.0\Day-2.dll
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\obj\Debug\net8.0\refint\Day-2.dll
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\obj\Debug\net8.0\Day-2.pdb
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\obj\Debug\net8.0\Day-2.genruntimeconfig.cache
+D:\apps\Advent-Of-Code-2024\Michael\Day-2\obj\Debug\net8.0\ref\Day-2.dll
